@@ -17627,6 +17627,19 @@
          "tileheight":32,
          "tilewidth":32,
          "transparentcolor":"#ff00ff"
+        }, 
+        {
+         "columns":16,
+         "firstgid":225326,
+         "image":"tilesets\/pokemon-tileset.png",
+         "imageheight":41664,
+         "imagewidth":512,
+         "margin":0,
+         "name":"pokemon-tileset",
+         "spacing":0,
+         "tilecount":20832,
+         "tileheight":32,
+         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
