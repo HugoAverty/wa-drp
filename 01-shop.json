@@ -17589,6 +17589,19 @@
          "tilecount":17024,
          "tileheight":32,
          "tilewidth":32
+        }, 
+        {
+         "columns":16,
+         "firstgid":242350,
+         "image":"tilesets\/drp-custom.png",
+         "imageheight":1700,
+         "imagewidth":512,
+         "margin":0,
+         "name":"drp-custom",
+         "spacing":0,
+         "tilecount":848,
+         "tileheight":32,
+         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
