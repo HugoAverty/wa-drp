@@ -679,12 +679,12 @@
         {
          "name":"mapDescription",
          "type":"string",
-         "value":"TODO"
+         "value":"Shop map of DRP"
         }, 
         {
          "name":"mapImage",
          "type":"string",
-         "value":"TODO"
+         "value":"01-shop.png"
         }, 
         {
          "name":"mapLink",
@@ -694,7 +694,7 @@
         {
          "name":"mapName",
          "type":"string",
-         "value":"TODO"
+         "value":"DRP v2 Shop"
         }, 
         {
          "name":"script",

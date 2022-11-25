@@ -504,12 +504,12 @@
         {
          "name":"mapDescription",
          "type":"string",
-         "value":"TODO"
+         "value":"Exterior map of DRP"
         }, 
         {
          "name":"mapImage",
          "type":"string",
-         "value":"TODO"
+         "value":"00-main.png"
         }, 
         {
          "name":"mapLink",
@@ -519,7 +519,7 @@
         {
          "name":"mapName",
          "type":"string",
-         "value":"TODO"
+         "value":"DRP v2 Exterior (main)"
         }, 
         {
          "name":"script",
