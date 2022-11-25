@@ -36,7 +36,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"00-main.json#entryShop"
+                 "value":"\/@\/world#entryShop"
                 }],
          "type":"tilelayer",
          "visible":true,

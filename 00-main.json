@@ -121,7 +121,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"01-shop.json"
+                         "value":"\/@\/shop"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -139,7 +139,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"01-office.json"
+                         "value":"\/@\/main-office"
                         }],
                  "type":"tilelayer",
                  "visible":true,
