@@ -291,7 +291,7 @@
          "name":"top_left_door_open",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":34,
          "x":0,
          "y":0
@@ -315,7 +315,7 @@
          "name":"top_right_door_open",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":34,
          "x":0,
          "y":0
@@ -339,7 +339,7 @@
          "name":"bottom_right_door_open",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":34,
          "x":0,
          "y":0
@@ -363,7 +363,7 @@
          "name":"bottom_left_door_open",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":34,
          "x":0,
          "y":0
@@ -569,7 +569,7 @@
                          "value":false
                         }],
                  "rotation":0,
-                 "type":"",
+                 "type":"variable",
                  "visible":true,
                  "width":0,
                  "x":256.666666666667,
@@ -607,7 +607,7 @@
                          "value":false
                         }],
                  "rotation":0,
-                 "type":"",
+                 "type":"variable",
                  "visible":true,
                  "width":0,
                  "x":832.666666666667,
@@ -645,7 +645,7 @@
                          "value":false
                         }],
                  "rotation":0,
-                 "type":"",
+                 "type":"variable",
                  "visible":true,
                  "width":0,
                  "x":288,
@@ -683,7 +683,7 @@
                          "value":false
                         }],
                  "rotation":0,
-                 "type":"",
+                 "type":"variable",
                  "visible":true,
                  "width":0,
                  "x":800,
@@ -7674,6 +7674,24 @@
                          "tileid":575
                         }],
                  "id":573
+                }, 
+                {
+                 "id":779,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":780,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
                 }],
          "tilewidth":32,
          "transparentcolor":"#ff00ff"
