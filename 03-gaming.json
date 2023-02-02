@@ -62,7 +62,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/@\/drp-v2-exterior-(main)#entryGaming"
+                 "value":"\/@\/world#entryGaming"
                 }],
          "type":"tilelayer",
          "visible":true,

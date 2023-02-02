@@ -93,7 +93,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/@\/drp-v2-exterior-(main)#entryMusic"
+                 "value":"\/@\/world#entryMusic"
                 }],
          "type":"tilelayer",
          "visible":true,
