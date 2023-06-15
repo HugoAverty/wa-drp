@@ -935,12 +935,12 @@
         {
          "name":"mapDescription",
          "type":"string",
-         "value":"Music map of DRP"
+         "value":"Fitness map of DRP"
         }, 
         {
          "name":"mapImage",
          "type":"string",
-         "value":"02-music.png"
+         "value":"02-sport.png"
         }, 
         {
          "name":"mapLink",
@@ -950,7 +950,7 @@
         {
          "name":"mapName",
          "type":"string",
-         "value":"DRP v2 Music"
+         "value":"DRP v2 Sport"
         }, 
         {
          "name":"script",
