@@ -93,7 +93,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/@\/world#entryMusic"
+                 "value":"\/@\/world#entrySport"
                 }],
          "type":"tilelayer",
          "visible":true,
